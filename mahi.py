@@ -1,4 +1,4 @@
-mport os
+import os
 from bs4 import BeautifulSoup
 from bs4 import BeautifulSoup as sop
 from concurrent.futures import ThreadPoolExecutor as tred
